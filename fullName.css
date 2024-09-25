@@ -1,0 +1,22 @@
+.fullName {
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+
+.firstName {
+  display: inline-block;
+  font-size: 10px;
+  margin-right: 10px;
+  margin-bottom: 20px;
+}
+
+.lastName {
+  display: inline-block;
+  font-size: 10px;
+  margin-left: 9px;
+}
+
+p {
+  margin-top: 5px;
+  font-size: 10px;
+}
